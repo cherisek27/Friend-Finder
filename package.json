@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "friends app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "npm",
+    "ERR!",
+    "Darwin",
+    "16.6.0"
+  ],
+  "author": "npm ERR! argv \"/usr/local/Cellar/node/7.7.2/bin/node\" \"/usr/local/bin/npm\" \"install\" \"express\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
